@@ -120,6 +120,39 @@
   margin-left: 50px;
   margin-right: 50px;
 }
+
+/* Porjetos */
+.projects-content {
+  margin-top: 118px;
+}
+
+.project-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.project-item > img {
+  width: 300px;
+  height: 300px;
+}
+
+.project-text {
+  margin-left: 50px;
+  max-width: 600px;
+}
+
+.project-text > p {
+  color: #fff;
+  opacity: 75%;
+  line-height: 29px;
+}
+
+.project-text > h3 {
+  color: white;
+  font-size: 2.25rem;
+  font-weight: 500;
+}
 /* Utilities */
 .section-container {
   width: 100%;
